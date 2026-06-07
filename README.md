@@ -85,6 +85,7 @@ Feel free to explore the solutions and provide suggestions for improvement.
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Malathi231/LeetCode/tree/master/0045-jump-game-ii) |
+| [0485-max-consecutive-ones](https://github.com/Malathi231/LeetCode/tree/master/0485-max-consecutive-ones) |
 ## Dynamic Programming
 |  |
 | ------- |
