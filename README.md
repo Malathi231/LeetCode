@@ -85,6 +85,7 @@ Feel free to explore the solutions and provide suggestions for improvement.
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Malathi231/LeetCode/tree/master/0045-jump-game-ii) |
+| [0189-rotate-array](https://github.com/Malathi231/LeetCode/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/Malathi231/LeetCode/tree/master/0485-max-consecutive-ones) |
 ## Dynamic Programming
 |  |
@@ -94,4 +95,12 @@ Feel free to explore the solutions and provide suggestions for improvement.
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Malathi231/LeetCode/tree/master/0045-jump-game-ii) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/Malathi231/LeetCode/tree/master/0189-rotate-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/Malathi231/LeetCode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
