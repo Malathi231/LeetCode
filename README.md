@@ -87,6 +87,7 @@ Feel free to explore the solutions and provide suggestions for improvement.
 | [0045-jump-game-ii](https://github.com/Malathi231/LeetCode/tree/master/0045-jump-game-ii) |
 | [0189-rotate-array](https://github.com/Malathi231/LeetCode/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/Malathi231/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [1664-ways-to-make-a-fair-array](https://github.com/Malathi231/LeetCode/tree/master/1664-ways-to-make-a-fair-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -103,4 +104,8 @@ Feel free to explore the solutions and provide suggestions for improvement.
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Malathi231/LeetCode/tree/master/0189-rotate-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [1664-ways-to-make-a-fair-array](https://github.com/Malathi231/LeetCode/tree/master/1664-ways-to-make-a-fair-array) |
 <!---LeetCode Topics End-->
