@@ -85,6 +85,7 @@ Feel free to explore the solutions and provide suggestions for improvement.
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Malathi231/LeetCode/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/Malathi231/LeetCode/tree/master/0053-maximum-subarray) |
 | [0189-rotate-array](https://github.com/Malathi231/LeetCode/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/Malathi231/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [1664-ways-to-make-a-fair-array](https://github.com/Malathi231/LeetCode/tree/master/1664-ways-to-make-a-fair-array) |
@@ -94,6 +95,7 @@ Feel free to explore the solutions and provide suggestions for improvement.
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Malathi231/LeetCode/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/Malathi231/LeetCode/tree/master/0053-maximum-subarray) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Malathi231/LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Greedy
 |  |
@@ -112,4 +114,8 @@ Feel free to explore the solutions and provide suggestions for improvement.
 | ------- |
 | [1664-ways-to-make-a-fair-array](https://github.com/Malathi231/LeetCode/tree/master/1664-ways-to-make-a-fair-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Malathi231/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Malathi231/LeetCode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
