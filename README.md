@@ -110,6 +110,7 @@ Feel free to explore the solutions and provide suggestions for improvement.
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Malathi231/LeetCode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Malathi231/LeetCode/tree/master/0189-rotate-array) |
 ## Prefix Sum
 |  |
@@ -121,4 +122,8 @@ Feel free to explore the solutions and provide suggestions for improvement.
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Malathi231/LeetCode/tree/master/0053-maximum-subarray) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Malathi231/LeetCode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
