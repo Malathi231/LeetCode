@@ -88,6 +88,7 @@ Feel free to explore the solutions and provide suggestions for improvement.
 | [0053-maximum-subarray](https://github.com/Malathi231/LeetCode/tree/master/0053-maximum-subarray) |
 | [0189-rotate-array](https://github.com/Malathi231/LeetCode/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/Malathi231/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0645-set-mismatch](https://github.com/Malathi231/LeetCode/tree/master/0645-set-mismatch) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Malathi231/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1664-ways-to-make-a-fair-array](https://github.com/Malathi231/LeetCode/tree/master/1664-ways-to-make-a-fair-array) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Malathi231/LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -129,4 +130,16 @@ Feel free to explore the solutions and provide suggestions for improvement.
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Malathi231/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/Malathi231/LeetCode/tree/master/0125-valid-palindrome) |
+## Hash Table
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/Malathi231/LeetCode/tree/master/0645-set-mismatch) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/Malathi231/LeetCode/tree/master/0645-set-mismatch) |
+## Sorting
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/Malathi231/LeetCode/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
