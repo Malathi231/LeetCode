@@ -108,6 +108,7 @@ Feel free to explore the solutions and provide suggestions for improvement.
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Malathi231/LeetCode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Malathi231/LeetCode/tree/master/0189-rotate-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Malathi231/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 ## Two Pointers
@@ -146,6 +147,7 @@ Feel free to explore the solutions and provide suggestions for improvement.
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Malathi231/LeetCode/tree/master/0069-sqrtx) |
 | [1095-find-in-mountain-array](https://github.com/Malathi231/LeetCode/tree/main/1095-find-in-mountain-array/) | Hard |
 ## Interactive
 |  |
