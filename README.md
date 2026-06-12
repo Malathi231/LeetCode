@@ -87,6 +87,7 @@ Feel free to explore the solutions and provide suggestions for improvement.
 | [0045-jump-game-ii](https://github.com/Malathi231/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Malathi231/LeetCode/tree/master/0053-maximum-subarray) |
 | [0189-rotate-array](https://github.com/Malathi231/LeetCode/tree/master/0189-rotate-array) |
+| [0410-split-array-largest-sum](https://github.com/Malathi231/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/Malathi231/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/Malathi231/LeetCode/tree/master/0645-set-mismatch) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Malathi231/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -101,11 +102,13 @@ Feel free to explore the solutions and provide suggestions for improvement.
 | [0005-longest-palindromic-substring](https://github.com/Malathi231/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/Malathi231/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Malathi231/LeetCode/tree/master/0053-maximum-subarray) |
+| [0410-split-array-largest-sum](https://github.com/Malathi231/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Malathi231/LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Greedy
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Malathi231/LeetCode/tree/master/0045-jump-game-ii) |
+| [0410-split-array-largest-sum](https://github.com/Malathi231/LeetCode/tree/master/0410-split-array-largest-sum) |
 ## Math
 |  |
 | ------- |
@@ -121,6 +124,7 @@ Feel free to explore the solutions and provide suggestions for improvement.
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/Malathi231/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Malathi231/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1664-ways-to-make-a-fair-array](https://github.com/Malathi231/LeetCode/tree/master/1664-ways-to-make-a-fair-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Malathi231/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
@@ -149,6 +153,7 @@ Feel free to explore the solutions and provide suggestions for improvement.
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Malathi231/LeetCode/tree/master/0069-sqrtx) |
+| [0410-split-array-largest-sum](https://github.com/Malathi231/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Malathi231/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1095-find-in-mountain-array](https://github.com/Malathi231/LeetCode/tree/main/1095-find-in-mountain-array/) | Hard |
 ## Interactive
