@@ -1,33 +1,30 @@
-import java.util.Arrays;
-
 class Solution {
     public int[] findErrorNums(int[] nums) {
+        int n = nums.length;
+        int i = 0;
 
-        Arrays.sort(nums);
+        while (i < n) {
+            int ci = nums[i] - 1;
 
-        int duplicate = -1;
-        int missing = -1;
-
-        for (int i = 1; i < nums.length; i++) {
-
-            if (nums[i] == nums[i - 1]) {
-                duplicate = nums[i];
-            }
-
-            if (nums[i] - nums[i - 1] > 1) {
-                missing = nums[i - 1] + 1;
-            }
-        }
-
-        // Edge cases
-        if (missing == -1) {
-            if (nums[0] != 1) {
-                missing = 1;
+            if (nums[i] != nums[ci]) {
+                int temp = nums[i];
+                nums[i] = nums[ci];
+                nums[ci] = temp;
             } else {
-                missing = nums.length;
+                i++;
             }
         }
 
-        return new int[]{duplicate, missing};
+        int[] ans = new int[2];
+
+        for (i = 0; i < n; i++) {
+            if (nums[i] != i + 1) {
+                ans[0] = nums[i]; // duplicate
+                ans[1] = i + 1;   // missing
+                return ans;
+            }
+        }
+
+        return ans;
     }
 }
