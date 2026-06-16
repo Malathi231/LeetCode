@@ -107,6 +107,7 @@ Feel free to explore the solutions and provide suggestions for improvement.
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Malathi231/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1664-ways-to-make-a-fair-array](https://github.com/Malathi231/LeetCode/tree/master/1664-ways-to-make-a-fair-array) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Malathi231/LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Malathi231/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1991-find-the-middle-index-in-array](https://github.com/Malathi231/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
 ## Dynamic Programming
 |  |
@@ -198,6 +199,7 @@ Feel free to explore the solutions and provide suggestions for improvement.
 | [0054-spiral-matrix](https://github.com/Malathi231/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Malathi231/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0867-transpose-matrix](https://github.com/Malathi231/LeetCode/tree/main/0867-transpose-matrix/) | Easy |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Malathi231/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Simulation
 |  |
 | ------- |
