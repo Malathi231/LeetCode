@@ -138,6 +138,7 @@ Feel free to explore the solutions and provide suggestions for improvement.
 | [0005-longest-palindromic-substring](https://github.com/Malathi231/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Malathi231/LeetCode/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Malathi231/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0061-rotate-list](https://github.com/Malathi231/LeetCode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Malathi231/LeetCode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Malathi231/LeetCode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Malathi231/LeetCode/tree/master/0189-rotate-array) |
@@ -218,6 +219,7 @@ Feel free to explore the solutions and provide suggestions for improvement.
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Malathi231/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0061-rotate-list](https://github.com/Malathi231/LeetCode/tree/master/0061-rotate-list) |
 | [0206-reverse-linked-list](https://github.com/Malathi231/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Malathi231/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Malathi231/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
