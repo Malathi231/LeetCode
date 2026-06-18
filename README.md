@@ -145,6 +145,7 @@ Feel free to explore the solutions and provide suggestions for improvement.
 | [0189-rotate-array](https://github.com/Malathi231/LeetCode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Malathi231/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Malathi231/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Malathi231/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Malathi231/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Prefix Sum
 |  |
@@ -226,6 +227,7 @@ Feel free to explore the solutions and provide suggestions for improvement.
 | [0061-rotate-list](https://github.com/Malathi231/LeetCode/tree/master/0061-rotate-list) |
 | [0206-reverse-linked-list](https://github.com/Malathi231/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Malathi231/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Malathi231/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Malathi231/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
