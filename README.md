@@ -109,6 +109,7 @@ Feel free to explore the solutions and provide suggestions for improvement.
 | [0503-next-greater-element-ii](https://github.com/Malathi231/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0622-design-circular-queue](https://github.com/Malathi231/LeetCode/tree/master/0622-design-circular-queue) |
 | [0645-set-mismatch](https://github.com/Malathi231/LeetCode/tree/master/0645-set-mismatch) |
+| [0739-daily-temperatures](https://github.com/Malathi231/LeetCode/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Malathi231/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/Malathi231/LeetCode/tree/main/0867-transpose-matrix/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/Malathi231/LeetCode/tree/master/0875-koko-eating-bananas) |
@@ -279,6 +280,7 @@ Feel free to explore the solutions and provide suggestions for improvement.
 | [0234-palindrome-linked-list](https://github.com/Malathi231/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Malathi231/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Malathi231/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/Malathi231/LeetCode/tree/master/0739-daily-temperatures) |
 ## Quickselect
 |  |
 | ------- |
@@ -289,6 +291,7 @@ Feel free to explore the solutions and provide suggestions for improvement.
 | [0084-largest-rectangle-in-histogram](https://github.com/Malathi231/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Malathi231/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Malathi231/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/Malathi231/LeetCode/tree/master/0739-daily-temperatures) |
 ## Counting
 |  |
 | ------- |
