@@ -128,6 +128,7 @@ Feel free to explore the solutions and provide suggestions for improvement.
 | [0053-maximum-subarray](https://github.com/Malathi231/LeetCode/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/Malathi231/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/Malathi231/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [1668-maximum-repeating-substring](https://github.com/Malathi231/LeetCode/tree/master/1668-maximum-repeating-substring) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Malathi231/LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Greedy
 |  |
@@ -182,6 +183,7 @@ Feel free to explore the solutions and provide suggestions for improvement.
 | [0020-valid-parentheses](https://github.com/Malathi231/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/Malathi231/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0125-valid-palindrome](https://github.com/Malathi231/LeetCode/tree/master/0125-valid-palindrome) |
+| [1668-maximum-repeating-substring](https://github.com/Malathi231/LeetCode/tree/master/1668-maximum-repeating-substring) |
 ## Hash Table
 |  |
 | ------- |
@@ -296,4 +298,8 @@ Feel free to explore the solutions and provide suggestions for improvement.
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/Malathi231/LeetCode/tree/master/0622-design-circular-queue) |
+## String Matching
+|  |
+| ------- |
+| [1668-maximum-repeating-substring](https://github.com/Malathi231/LeetCode/tree/master/1668-maximum-repeating-substring) |
 <!---LeetCode Topics End-->
