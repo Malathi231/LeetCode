@@ -96,6 +96,7 @@ Feel free to explore the solutions and provide suggestions for improvement.
 | [0084-largest-rectangle-in-histogram](https://github.com/Malathi231/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0136-single-number](https://github.com/Malathi231/LeetCode/tree/main/0136-single-number/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/Malathi231/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0169-majority-element](https://github.com/Malathi231/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Malathi231/LeetCode/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Malathi231/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Malathi231/LeetCode/tree/main/0268-missing-number/) | Easy |
@@ -170,6 +171,7 @@ Feel free to explore the solutions and provide suggestions for improvement.
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Malathi231/LeetCode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Malathi231/LeetCode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Malathi231/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0324-wiggle-sort-ii](https://github.com/Malathi231/LeetCode/tree/master/0324-wiggle-sort-ii) |
 ## String
@@ -184,6 +186,7 @@ Feel free to explore the solutions and provide suggestions for improvement.
 | ------- |
 | [0041-first-missing-positive](https://github.com/Malathi231/LeetCode/tree/main/0041-first-missing-positive/) | Hard |
 | [0073-set-matrix-zeroes](https://github.com/Malathi231/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/Malathi231/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Malathi231/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Malathi231/LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Malathi231/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -200,6 +203,7 @@ Feel free to explore the solutions and provide suggestions for improvement.
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Malathi231/LeetCode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Malathi231/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Malathi231/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0324-wiggle-sort-ii](https://github.com/Malathi231/LeetCode/tree/master/0324-wiggle-sort-ii) |
 | [0645-set-mismatch](https://github.com/Malathi231/LeetCode/tree/master/0645-set-mismatch) |
@@ -278,4 +282,8 @@ Feel free to explore the solutions and provide suggestions for improvement.
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Malathi231/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Malathi231/LeetCode/tree/master/0496-next-greater-element-i) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Malathi231/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
