@@ -132,6 +132,7 @@ Feel free to explore the solutions and provide suggestions for improvement.
 | [0032-longest-valid-parentheses](https://github.com/Malathi231/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0045-jump-game-ii](https://github.com/Malathi231/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Malathi231/LeetCode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Malathi231/LeetCode/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/Malathi231/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/Malathi231/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/Malathi231/LeetCode/tree/master/0509-fibonacci-number) |
@@ -151,6 +152,7 @@ Feel free to explore the solutions and provide suggestions for improvement.
 | [0048-rotate-image](https://github.com/Malathi231/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Malathi231/LeetCode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Malathi231/LeetCode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Malathi231/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Malathi231/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Malathi231/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/Malathi231/LeetCode/tree/master/0371-sum-of-two-integers) |
@@ -331,5 +333,6 @@ Feel free to explore the solutions and provide suggestions for improvement.
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Malathi231/LeetCode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Malathi231/LeetCode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
