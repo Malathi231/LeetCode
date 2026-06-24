@@ -85,6 +85,7 @@ Feel free to explore the solutions and provide suggestions for improvement.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Malathi231/LeetCode/tree/master/0011-container-with-most-water) |
+| [0037-sudoku-solver](https://github.com/Malathi231/LeetCode/tree/main/0037-sudoku-solver/) | Hard |
 | [0041-first-missing-positive](https://github.com/Malathi231/LeetCode/tree/main/0041-first-missing-positive/) | Hard |
 | [0045-jump-game-ii](https://github.com/Malathi231/LeetCode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Malathi231/LeetCode/tree/master/0048-rotate-image) |
@@ -206,6 +207,7 @@ Feel free to explore the solutions and provide suggestions for improvement.
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/Malathi231/LeetCode/tree/main/0037-sudoku-solver/) | Hard |
 | [0041-first-missing-positive](https://github.com/Malathi231/LeetCode/tree/main/0041-first-missing-positive/) | Hard |
 | [0073-set-matrix-zeroes](https://github.com/Malathi231/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Malathi231/LeetCode/tree/master/0169-majority-element) |
@@ -253,6 +255,7 @@ Feel free to explore the solutions and provide suggestions for improvement.
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/Malathi231/LeetCode/tree/main/0037-sudoku-solver/) | Hard |
 | [0048-rotate-image](https://github.com/Malathi231/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Malathi231/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Malathi231/LeetCode/tree/master/0073-set-matrix-zeroes) |
@@ -339,5 +342,6 @@ Feel free to explore the solutions and provide suggestions for improvement.
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/Malathi231/LeetCode/tree/main/0037-sudoku-solver/) | Hard |
 | [0051-n-queens](https://github.com/Malathi231/LeetCode/tree/main/0051-n-queens/) | Hard |
 <!---LeetCode Topics End-->
