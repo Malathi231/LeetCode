@@ -310,6 +310,7 @@ Feel free to explore the solutions and provide suggestions for improvement.
 | [0094-binary-tree-inorder-traversal](https://github.com/Malathi231/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/Malathi231/LeetCode/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Malathi231/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Malathi231/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Malathi231/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Malathi231/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Malathi231/LeetCode/tree/master/0503-next-greater-element-ii) |
@@ -361,6 +362,7 @@ Feel free to explore the solutions and provide suggestions for improvement.
 | [0102-binary-tree-level-order-traversal](https://github.com/Malathi231/LeetCode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Malathi231/LeetCode/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/Malathi231/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Malathi231/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Malathi231/LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Malathi231/LeetCode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 ## Breadth-First Search
@@ -377,6 +379,7 @@ Feel free to explore the solutions and provide suggestions for improvement.
 | [0102-binary-tree-level-order-traversal](https://github.com/Malathi231/LeetCode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Malathi231/LeetCode/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/Malathi231/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Malathi231/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Malathi231/LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Malathi231/LeetCode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 ## Depth-First Search
@@ -384,6 +387,7 @@ Feel free to explore the solutions and provide suggestions for improvement.
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Malathi231/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Malathi231/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Malathi231/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Malathi231/LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Malathi231/LeetCode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
