@@ -88,6 +88,7 @@ Feel free to explore the solutions and provide suggestions for improvement.
 | [0037-sudoku-solver](https://github.com/Malathi231/LeetCode/tree/main/0037-sudoku-solver/) | Hard |
 | [0041-first-missing-positive](https://github.com/Malathi231/LeetCode/tree/main/0041-first-missing-positive/) | Hard |
 | [0045-jump-game-ii](https://github.com/Malathi231/LeetCode/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/Malathi231/LeetCode/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/Malathi231/LeetCode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/Malathi231/LeetCode/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/Malathi231/LeetCode/tree/master/0053-maximum-subarray) |
@@ -347,6 +348,7 @@ Feel free to explore the solutions and provide suggestions for improvement.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/Malathi231/LeetCode/tree/main/0037-sudoku-solver/) | Hard |
+| [0046-permutations](https://github.com/Malathi231/LeetCode/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/Malathi231/LeetCode/tree/main/0051-n-queens/) | Hard |
 | [0078-subsets](https://github.com/Malathi231/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Malathi231/LeetCode/tree/master/0090-subsets-ii) |
