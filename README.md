@@ -364,6 +364,7 @@ Feel free to explore the solutions and provide suggestions for improvement.
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Malathi231/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Malathi231/LeetCode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Malathi231/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/Malathi231/LeetCode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Malathi231/LeetCode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Malathi231/LeetCode/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
@@ -375,6 +376,7 @@ Feel free to explore the solutions and provide suggestions for improvement.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/Malathi231/LeetCode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Malathi231/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/Malathi231/LeetCode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Malathi231/LeetCode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Malathi231/LeetCode/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
@@ -385,6 +387,7 @@ Feel free to explore the solutions and provide suggestions for improvement.
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Malathi231/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Malathi231/LeetCode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Malathi231/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/Malathi231/LeetCode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Malathi231/LeetCode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Malathi231/LeetCode/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
@@ -397,6 +400,7 @@ Feel free to explore the solutions and provide suggestions for improvement.
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Malathi231/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Malathi231/LeetCode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Malathi231/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Malathi231/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Malathi231/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Malathi231/LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
