@@ -174,6 +174,7 @@ Feel free to explore the solutions and provide suggestions for improvement.
 | [0088-merge-sorted-array](https://github.com/Malathi231/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/Malathi231/LeetCode/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/Malathi231/LeetCode/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/Malathi231/LeetCode/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/Malathi231/LeetCode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Malathi231/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Malathi231/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -194,6 +195,7 @@ Feel free to explore the solutions and provide suggestions for improvement.
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Malathi231/LeetCode/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/Malathi231/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Malathi231/LeetCode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Malathi231/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0324-wiggle-sort-ii](https://github.com/Malathi231/LeetCode/tree/master/0324-wiggle-sort-ii) |
@@ -233,6 +235,7 @@ Feel free to explore the solutions and provide suggestions for improvement.
 | ------- |
 | [0075-sort-colors](https://github.com/Malathi231/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Malathi231/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0148-sort-list](https://github.com/Malathi231/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Malathi231/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Malathi231/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0324-wiggle-sort-ii](https://github.com/Malathi231/LeetCode/tree/master/0324-wiggle-sort-ii) |
@@ -286,6 +289,7 @@ Feel free to explore the solutions and provide suggestions for improvement.
 | [0025-reverse-nodes-in-k-group](https://github.com/Malathi231/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/Malathi231/LeetCode/tree/master/0061-rotate-list) |
 | [0143-reorder-list](https://github.com/Malathi231/LeetCode/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/Malathi231/LeetCode/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Malathi231/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Malathi231/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0622-design-circular-queue](https://github.com/Malathi231/LeetCode/tree/master/0622-design-circular-queue) |
@@ -394,4 +398,8 @@ Feel free to explore the solutions and provide suggestions for improvement.
 | [0145-binary-tree-postorder-traversal](https://github.com/Malathi231/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Malathi231/LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Malathi231/LeetCode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Malathi231/LeetCode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
