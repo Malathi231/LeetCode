@@ -375,6 +375,7 @@ Feel free to explore the solutions and provide suggestions for improvement.
 | [0199-binary-tree-right-side-view](https://github.com/Malathi231/LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Malathi231/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Malathi231/LeetCode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [0993-cousins-in-binary-tree](https://github.com/Malathi231/LeetCode/tree/master/0993-cousins-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -387,6 +388,7 @@ Feel free to explore the solutions and provide suggestions for improvement.
 | [0111-minimum-depth-of-binary-tree](https://github.com/Malathi231/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Malathi231/LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Malathi231/LeetCode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [0993-cousins-in-binary-tree](https://github.com/Malathi231/LeetCode/tree/master/0993-cousins-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -403,6 +405,7 @@ Feel free to explore the solutions and provide suggestions for improvement.
 | [0199-binary-tree-right-side-view](https://github.com/Malathi231/LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Malathi231/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Malathi231/LeetCode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [0993-cousins-in-binary-tree](https://github.com/Malathi231/LeetCode/tree/master/0993-cousins-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -416,6 +419,7 @@ Feel free to explore the solutions and provide suggestions for improvement.
 | [0199-binary-tree-right-side-view](https://github.com/Malathi231/LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Malathi231/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Malathi231/LeetCode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [0993-cousins-in-binary-tree](https://github.com/Malathi231/LeetCode/tree/master/0993-cousins-in-binary-tree) |
 ## Merge Sort
 |  |
 | ------- |
