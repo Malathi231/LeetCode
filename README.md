@@ -82,8 +82,8 @@ Feel free to explore the solutions and provide suggestions for improvement.
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0011-container-with-most-water](https://github.com/Malathi231/LeetCode/tree/master/0011-container-with-most-water) |
 | [0037-sudoku-solver](https://github.com/Malathi231/LeetCode/tree/main/0037-sudoku-solver/) | Hard |
 | [0041-first-missing-positive](https://github.com/Malathi231/LeetCode/tree/main/0041-first-missing-positive/) | Hard |
@@ -108,6 +108,7 @@ Feel free to explore the solutions and provide suggestions for improvement.
 | [0189-rotate-array](https://github.com/Malathi231/LeetCode/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Malathi231/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Malathi231/LeetCode/tree/main/0268-missing-number/) | Easy |
+| [0283-move-zeroes](https://github.com/Malathi231/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Malathi231/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0324-wiggle-sort-ii](https://github.com/Malathi231/LeetCode/tree/master/0324-wiggle-sort-ii) |
 | [0410-split-array-largest-sum](https://github.com/Malathi231/LeetCode/tree/master/0410-split-array-largest-sum) |
@@ -132,8 +133,8 @@ Feel free to explore the solutions and provide suggestions for improvement.
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Malathi231/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1991-find-the-middle-index-in-array](https://github.com/Malathi231/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
 ## Dynamic Programming
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0005-longest-palindromic-substring](https://github.com/Malathi231/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/Malathi231/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0045-jump-game-ii](https://github.com/Malathi231/LeetCode/tree/master/0045-jump-game-ii) |
@@ -147,16 +148,16 @@ Feel free to explore the solutions and provide suggestions for improvement.
 | [1668-maximum-repeating-substring](https://github.com/Malathi231/LeetCode/tree/master/1668-maximum-repeating-substring) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Malathi231/LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Greedy
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0011-container-with-most-water](https://github.com/Malathi231/LeetCode/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Malathi231/LeetCode/tree/master/0045-jump-game-ii) |
 | [0324-wiggle-sort-ii](https://github.com/Malathi231/LeetCode/tree/master/0324-wiggle-sort-ii) |
 | [0410-split-array-largest-sum](https://github.com/Malathi231/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0680-valid-palindrome-ii](https://github.com/Malathi231/LeetCode/tree/master/0680-valid-palindrome-ii) |
 ## Math
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0048-rotate-image](https://github.com/Malathi231/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Malathi231/LeetCode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Malathi231/LeetCode/tree/main/0062-unique-paths/) | Medium |
@@ -168,8 +169,8 @@ Feel free to explore the solutions and provide suggestions for improvement.
 | [0509-fibonacci-number](https://github.com/Malathi231/LeetCode/tree/master/0509-fibonacci-number) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Malathi231/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 ## Two Pointers
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0005-longest-palindromic-substring](https://github.com/Malathi231/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Malathi231/LeetCode/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Malathi231/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
@@ -181,6 +182,7 @@ Feel free to explore the solutions and provide suggestions for improvement.
 | [0148-sort-list](https://github.com/Malathi231/LeetCode/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/Malathi231/LeetCode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Malathi231/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/Malathi231/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Malathi231/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0344-reverse-string](https://github.com/Malathi231/LeetCode/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/Malathi231/LeetCode/tree/master/0680-valid-palindrome-ii) |
@@ -188,24 +190,24 @@ Feel free to explore the solutions and provide suggestions for improvement.
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Malathi231/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Malathi231/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Prefix Sum
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0410-split-array-largest-sum](https://github.com/Malathi231/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Malathi231/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Malathi231/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1664-ways-to-make-a-fair-array](https://github.com/Malathi231/LeetCode/tree/master/1664-ways-to-make-a-fair-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Malathi231/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
 ## Divide and Conquer
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0053-maximum-subarray](https://github.com/Malathi231/LeetCode/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/Malathi231/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Malathi231/LeetCode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Malathi231/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0324-wiggle-sort-ii](https://github.com/Malathi231/LeetCode/tree/master/0324-wiggle-sort-ii) |
 ## String
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0005-longest-palindromic-substring](https://github.com/Malathi231/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/Malathi231/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/Malathi231/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
@@ -214,8 +216,8 @@ Feel free to explore the solutions and provide suggestions for improvement.
 | [0680-valid-palindrome-ii](https://github.com/Malathi231/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [1668-maximum-repeating-substring](https://github.com/Malathi231/LeetCode/tree/master/1668-maximum-repeating-substring) |
 ## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0037-sudoku-solver](https://github.com/Malathi231/LeetCode/tree/main/0037-sudoku-solver/) | Hard |
 | [0041-first-missing-positive](https://github.com/Malathi231/LeetCode/tree/main/0041-first-missing-positive/) | Hard |
 | [0073-set-matrix-zeroes](https://github.com/Malathi231/LeetCode/tree/master/0073-set-matrix-zeroes) |
@@ -225,8 +227,8 @@ Feel free to explore the solutions and provide suggestions for improvement.
 | [0496-next-greater-element-i](https://github.com/Malathi231/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/Malathi231/LeetCode/tree/master/0645-set-mismatch) |
 ## Bit Manipulation
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0078-subsets](https://github.com/Malathi231/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Malathi231/LeetCode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Malathi231/LeetCode/tree/main/0136-single-number/) | Easy |
@@ -235,8 +237,8 @@ Feel free to explore the solutions and provide suggestions for improvement.
 | [0371-sum-of-two-integers](https://github.com/Malathi231/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0645-set-mismatch](https://github.com/Malathi231/LeetCode/tree/master/0645-set-mismatch) |
 ## Sorting
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0075-sort-colors](https://github.com/Malathi231/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Malathi231/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0148-sort-list](https://github.com/Malathi231/LeetCode/tree/master/0148-sort-list) |
@@ -246,8 +248,8 @@ Feel free to explore the solutions and provide suggestions for improvement.
 | [0645-set-mismatch](https://github.com/Malathi231/LeetCode/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/Malathi231/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Binary Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0069-sqrtx](https://github.com/Malathi231/LeetCode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Malathi231/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/Malathi231/LeetCode/tree/master/0162-find-peak-element) |
@@ -261,12 +263,12 @@ Feel free to explore the solutions and provide suggestions for improvement.
 | [1004-max-consecutive-ones-iii](https://github.com/Malathi231/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1095-find-in-mountain-array](https://github.com/Malathi231/LeetCode/tree/main/1095-find-in-mountain-array/) | Hard |
 ## Interactive
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1095-find-in-mountain-array](https://github.com/Malathi231/LeetCode/tree/main/1095-find-in-mountain-array/) | Hard |
 ## Matrix
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0037-sudoku-solver](https://github.com/Malathi231/LeetCode/tree/main/0037-sudoku-solver/) | Hard |
 | [0048-rotate-image](https://github.com/Malathi231/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Malathi231/LeetCode/tree/master/0054-spiral-matrix) |
@@ -277,17 +279,17 @@ Feel free to explore the solutions and provide suggestions for improvement.
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Malathi231/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Malathi231/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Simulation
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0054-spiral-matrix](https://github.com/Malathi231/LeetCode/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/Malathi231/LeetCode/tree/main/0867-transpose-matrix/) | Easy |
 ## Sliding Window
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/Malathi231/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 ## Linked List
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Malathi231/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/Malathi231/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Malathi231/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
@@ -300,8 +302,8 @@ Feel free to explore the solutions and provide suggestions for improvement.
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Malathi231/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Malathi231/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Malathi231/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Malathi231/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/Malathi231/LeetCode/tree/master/0050-powx-n) |
@@ -310,8 +312,8 @@ Feel free to explore the solutions and provide suggestions for improvement.
 | [0234-palindrome-linked-list](https://github.com/Malathi231/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/Malathi231/LeetCode/tree/master/0509-fibonacci-number) |
 ## Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0020-valid-parentheses](https://github.com/Malathi231/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/Malathi231/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/Malathi231/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -324,48 +326,48 @@ Feel free to explore the solutions and provide suggestions for improvement.
 | [0503-next-greater-element-ii](https://github.com/Malathi231/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Malathi231/LeetCode/tree/master/0739-daily-temperatures) |
 ## Quickselect
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0324-wiggle-sort-ii](https://github.com/Malathi231/LeetCode/tree/master/0324-wiggle-sort-ii) |
 ## Monotonic Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Malathi231/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Malathi231/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Malathi231/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Malathi231/LeetCode/tree/master/0739-daily-temperatures) |
 ## Counting
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0169-majority-element](https://github.com/Malathi231/LeetCode/tree/master/0169-majority-element) |
 ## Design
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0622-design-circular-queue](https://github.com/Malathi231/LeetCode/tree/master/0622-design-circular-queue) |
 ## Queue
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0622-design-circular-queue](https://github.com/Malathi231/LeetCode/tree/master/0622-design-circular-queue) |
 ## String Matching
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1668-maximum-repeating-substring](https://github.com/Malathi231/LeetCode/tree/master/1668-maximum-repeating-substring) |
 ## Memoization
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0070-climbing-stairs](https://github.com/Malathi231/LeetCode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Malathi231/LeetCode/tree/master/0509-fibonacci-number) |
 ## Backtracking
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0037-sudoku-solver](https://github.com/Malathi231/LeetCode/tree/main/0037-sudoku-solver/) | Hard |
 | [0046-permutations](https://github.com/Malathi231/LeetCode/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/Malathi231/LeetCode/tree/main/0051-n-queens/) | Hard |
 | [0078-subsets](https://github.com/Malathi231/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Malathi231/LeetCode/tree/master/0090-subsets-ii) |
 ## Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Malathi231/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Malathi231/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Malathi231/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
@@ -381,8 +383,8 @@ Feel free to explore the solutions and provide suggestions for improvement.
 | [0637-average-of-levels-in-binary-tree](https://github.com/Malathi231/LeetCode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0993-cousins-in-binary-tree](https://github.com/Malathi231/LeetCode/tree/master/0993-cousins-in-binary-tree) |
 ## Breadth-First Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0100-same-tree](https://github.com/Malathi231/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Malathi231/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/Malathi231/LeetCode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
@@ -394,8 +396,8 @@ Feel free to explore the solutions and provide suggestions for improvement.
 | [0637-average-of-levels-in-binary-tree](https://github.com/Malathi231/LeetCode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0993-cousins-in-binary-tree](https://github.com/Malathi231/LeetCode/tree/master/0993-cousins-in-binary-tree) |
 ## Binary Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Malathi231/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Malathi231/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Malathi231/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
@@ -411,8 +413,8 @@ Feel free to explore the solutions and provide suggestions for improvement.
 | [0637-average-of-levels-in-binary-tree](https://github.com/Malathi231/LeetCode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0993-cousins-in-binary-tree](https://github.com/Malathi231/LeetCode/tree/master/0993-cousins-in-binary-tree) |
 ## Depth-First Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Malathi231/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Malathi231/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Malathi231/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
@@ -425,11 +427,11 @@ Feel free to explore the solutions and provide suggestions for improvement.
 | [0637-average-of-levels-in-binary-tree](https://github.com/Malathi231/LeetCode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0993-cousins-in-binary-tree](https://github.com/Malathi231/LeetCode/tree/master/0993-cousins-in-binary-tree) |
 ## Merge Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0148-sort-list](https://github.com/Malathi231/LeetCode/tree/master/0148-sort-list) |
 ## Combinatorics
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0062-unique-paths](https://github.com/Malathi231/LeetCode/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
