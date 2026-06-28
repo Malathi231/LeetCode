@@ -131,6 +131,7 @@ Feel free to explore the solutions and provide suggestions for improvement.
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Malathi231/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1664-ways-to-make-a-fair-array](https://github.com/Malathi231/LeetCode/tree/master/1664-ways-to-make-a-fair-array) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Malathi231/LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Malathi231/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Malathi231/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1991-find-the-middle-index-in-array](https://github.com/Malathi231/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
 ## Dynamic Programming
@@ -156,6 +157,7 @@ Feel free to explore the solutions and provide suggestions for improvement.
 | [0324-wiggle-sort-ii](https://github.com/Malathi231/LeetCode/tree/master/0324-wiggle-sort-ii) |
 | [0410-split-array-largest-sum](https://github.com/Malathi231/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0680-valid-palindrome-ii](https://github.com/Malathi231/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Malathi231/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Math
 |  |
 | ------- |
@@ -249,6 +251,7 @@ Feel free to explore the solutions and provide suggestions for improvement.
 | [0324-wiggle-sort-ii](https://github.com/Malathi231/LeetCode/tree/master/0324-wiggle-sort-ii) |
 | [0645-set-mismatch](https://github.com/Malathi231/LeetCode/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/Malathi231/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Malathi231/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Binary Search
 |  |
 | ------- |
