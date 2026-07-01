@@ -152,6 +152,7 @@ Feel free to explore the solutions and provide suggestions for improvement.
 | [0152-maximum-product-subarray](https://github.com/Malathi231/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/Malathi231/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/Malathi231/LeetCode/tree/master/0509-fibonacci-number) |
+| [0647-palindromic-substrings](https://github.com/Malathi231/LeetCode/tree/master/0647-palindromic-substrings) |
 | [1668-maximum-repeating-substring](https://github.com/Malathi231/LeetCode/tree/master/1668-maximum-repeating-substring) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Malathi231/LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Greedy
@@ -194,6 +195,7 @@ Feel free to explore the solutions and provide suggestions for improvement.
 | [0283-move-zeroes](https://github.com/Malathi231/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Malathi231/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0344-reverse-string](https://github.com/Malathi231/LeetCode/tree/master/0344-reverse-string) |
+| [0647-palindromic-substrings](https://github.com/Malathi231/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Malathi231/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Malathi231/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Malathi231/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
@@ -225,6 +227,7 @@ Feel free to explore the solutions and provide suggestions for improvement.
 | [0032-longest-valid-parentheses](https://github.com/Malathi231/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0125-valid-palindrome](https://github.com/Malathi231/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Malathi231/LeetCode/tree/master/0344-reverse-string) |
+| [0647-palindromic-substrings](https://github.com/Malathi231/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Malathi231/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [1668-maximum-repeating-substring](https://github.com/Malathi231/LeetCode/tree/master/1668-maximum-repeating-substring) |
 ## Hash Table
