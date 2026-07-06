@@ -406,6 +406,7 @@ Feel free to explore the solutions and provide suggestions for improvement.
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Malathi231/LeetCode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Malathi231/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Malathi231/LeetCode/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
+| [0110-balanced-binary-tree](https://github.com/Malathi231/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Malathi231/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Malathi231/LeetCode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Malathi231/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -438,6 +439,7 @@ Feel free to explore the solutions and provide suggestions for improvement.
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Malathi231/LeetCode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Malathi231/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Malathi231/LeetCode/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
+| [0110-balanced-binary-tree](https://github.com/Malathi231/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Malathi231/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Malathi231/LeetCode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Malathi231/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -453,6 +455,7 @@ Feel free to explore the solutions and provide suggestions for improvement.
 | [0100-same-tree](https://github.com/Malathi231/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Malathi231/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Malathi231/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0110-balanced-binary-tree](https://github.com/Malathi231/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Malathi231/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Malathi231/LeetCode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Malathi231/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
