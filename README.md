@@ -361,6 +361,7 @@ Feel free to explore the solutions and provide suggestions for improvement.
 | [0143-reorder-list](https://github.com/Malathi231/LeetCode/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Malathi231/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Malathi231/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0155-min-stack](https://github.com/Malathi231/LeetCode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Malathi231/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Malathi231/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/Malathi231/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -384,6 +385,7 @@ Feel free to explore the solutions and provide suggestions for improvement.
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Malathi231/LeetCode/tree/master/0155-min-stack) |
 | [0622-design-circular-queue](https://github.com/Malathi231/LeetCode/tree/master/0622-design-circular-queue) |
 | [0707-design-linked-list](https://github.com/Malathi231/LeetCode/tree/master/0707-design-linked-list) |
 ## Queue
