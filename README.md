@@ -85,6 +85,7 @@ Feel free to explore the solutions and provide suggestions for improvement.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Malathi231/LeetCode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Malathi231/LeetCode/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Malathi231/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0037-sudoku-solver](https://github.com/Malathi231/LeetCode/tree/main/0037-sudoku-solver/) | Hard |
 | [0041-first-missing-positive](https://github.com/Malathi231/LeetCode/tree/main/0041-first-missing-positive/) | Hard |
@@ -190,6 +191,7 @@ Feel free to explore the solutions and provide suggestions for improvement.
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Malathi231/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Malathi231/LeetCode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Malathi231/LeetCode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Malathi231/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/Malathi231/LeetCode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Malathi231/LeetCode/tree/master/0075-sort-colors) |
@@ -266,6 +268,7 @@ Feel free to explore the solutions and provide suggestions for improvement.
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Malathi231/LeetCode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Malathi231/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Malathi231/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0148-sort-list](https://github.com/Malathi231/LeetCode/tree/master/0148-sort-list) |
