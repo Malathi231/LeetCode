@@ -132,6 +132,7 @@ Feel free to explore the solutions and provide suggestions for improvement.
 | [0852-peak-index-in-a-mountain-array](https://github.com/Malathi231/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/Malathi231/LeetCode/tree/main/0867-transpose-matrix/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/Malathi231/LeetCode/tree/master/0875-koko-eating-bananas) |
+| [0904-fruit-into-baskets](https://github.com/Malathi231/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0931-minimum-falling-path-sum](https://github.com/Malathi231/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/Malathi231/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/Malathi231/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
@@ -254,6 +255,7 @@ Feel free to explore the solutions and provide suggestions for improvement.
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Malathi231/LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Malathi231/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/Malathi231/LeetCode/tree/master/0645-set-mismatch) |
+| [0904-fruit-into-baskets](https://github.com/Malathi231/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Malathi231/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Bit Manipulation
 |  |
@@ -325,6 +327,7 @@ Feel free to explore the solutions and provide suggestions for improvement.
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Malathi231/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Malathi231/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/Malathi231/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Malathi231/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Malathi231/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Linked List
