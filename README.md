@@ -179,6 +179,7 @@ Feel free to explore the solutions and provide suggestions for improvement.
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Malathi231/LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Malathi231/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Malathi231/LeetCode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Malathi231/LeetCode/tree/main/0062-unique-paths/) | Medium |
@@ -242,6 +243,7 @@ Feel free to explore the solutions and provide suggestions for improvement.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Malathi231/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0013-roman-to-integer](https://github.com/Malathi231/LeetCode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Malathi231/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/Malathi231/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0125-valid-palindrome](https://github.com/Malathi231/LeetCode/tree/master/0125-valid-palindrome) |
@@ -252,6 +254,7 @@ Feel free to explore the solutions and provide suggestions for improvement.
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Malathi231/LeetCode/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/Malathi231/LeetCode/tree/main/0037-sudoku-solver/) | Hard |
 | [0041-first-missing-positive](https://github.com/Malathi231/LeetCode/tree/main/0041-first-missing-positive/) | Hard |
 | [0073-set-matrix-zeroes](https://github.com/Malathi231/LeetCode/tree/master/0073-set-matrix-zeroes) |
