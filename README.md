@@ -190,6 +190,7 @@ Feel free to explore the solutions and provide suggestions for improvement.
 | [0069-sqrtx](https://github.com/Malathi231/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Malathi231/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Malathi231/LeetCode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Malathi231/LeetCode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Malathi231/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/Malathi231/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0445-add-two-numbers-ii](https://github.com/Malathi231/LeetCode/tree/master/0445-add-two-numbers-ii) |
@@ -215,6 +216,7 @@ Feel free to explore the solutions and provide suggestions for improvement.
 | [0160-intersection-of-two-linked-lists](https://github.com/Malathi231/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Malathi231/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Malathi231/LeetCode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Malathi231/LeetCode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Malathi231/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Malathi231/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Malathi231/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -268,6 +270,7 @@ Feel free to explore the solutions and provide suggestions for improvement.
 | [0073-set-matrix-zeroes](https://github.com/Malathi231/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Malathi231/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Malathi231/LeetCode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Malathi231/LeetCode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Malathi231/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Malathi231/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Malathi231/LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
