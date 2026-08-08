@@ -398,6 +398,7 @@ Feel free to explore the solutions and provide suggestions for improvement.
 | [0496-next-greater-element-i](https://github.com/Malathi231/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Malathi231/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Malathi231/LeetCode/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/Malathi231/LeetCode/tree/master/0901-online-stock-span) |
 ## Quickselect
 |  |
 | ------- |
@@ -409,6 +410,7 @@ Feel free to explore the solutions and provide suggestions for improvement.
 | [0496-next-greater-element-i](https://github.com/Malathi231/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Malathi231/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Malathi231/LeetCode/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/Malathi231/LeetCode/tree/master/0901-online-stock-span) |
 ## Counting
 |  |
 | ------- |
@@ -419,6 +421,7 @@ Feel free to explore the solutions and provide suggestions for improvement.
 | [0155-min-stack](https://github.com/Malathi231/LeetCode/tree/master/0155-min-stack) |
 | [0622-design-circular-queue](https://github.com/Malathi231/LeetCode/tree/master/0622-design-circular-queue) |
 | [0707-design-linked-list](https://github.com/Malathi231/LeetCode/tree/master/0707-design-linked-list) |
+| [0901-online-stock-span](https://github.com/Malathi231/LeetCode/tree/master/0901-online-stock-span) |
 ## Queue
 |  |
 | ------- |
@@ -521,4 +524,8 @@ Feel free to explore the solutions and provide suggestions for improvement.
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Malathi231/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Malathi231/LeetCode/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
