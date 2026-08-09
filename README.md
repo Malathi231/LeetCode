@@ -117,6 +117,7 @@ Feel free to explore the solutions and provide suggestions for improvement.
 | [0198-house-robber](https://github.com/Malathi231/LeetCode/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/Malathi231/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Malathi231/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/Malathi231/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Malathi231/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Malathi231/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Malathi231/LeetCode/tree/master/0283-move-zeroes) |
@@ -348,6 +349,7 @@ Feel free to explore the solutions and provide suggestions for improvement.
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Malathi231/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0239-sliding-window-maximum](https://github.com/Malathi231/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0713-subarray-product-less-than-k](https://github.com/Malathi231/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Malathi231/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Malathi231/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
@@ -425,6 +427,7 @@ Feel free to explore the solutions and provide suggestions for improvement.
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Malathi231/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0622-design-circular-queue](https://github.com/Malathi231/LeetCode/tree/master/0622-design-circular-queue) |
 ## String Matching
 |  |
@@ -524,8 +527,17 @@ Feel free to explore the solutions and provide suggestions for improvement.
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Malathi231/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0239-sliding-window-maximum](https://github.com/Malathi231/LeetCode/tree/master/0239-sliding-window-maximum) |
 ## Data Stream
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Malathi231/LeetCode/tree/master/0901-online-stock-span) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Malathi231/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Malathi231/LeetCode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
