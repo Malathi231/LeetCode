@@ -223,6 +223,7 @@ Feel free to explore the solutions and provide suggestions for improvement.
 | [0283-move-zeroes](https://github.com/Malathi231/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Malathi231/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0344-reverse-string](https://github.com/Malathi231/LeetCode/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/Malathi231/LeetCode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Malathi231/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Malathi231/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Malathi231/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -261,6 +262,7 @@ Feel free to explore the solutions and provide suggestions for improvement.
 | [0151-reverse-words-in-a-string](https://github.com/Malathi231/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Malathi231/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Malathi231/LeetCode/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/Malathi231/LeetCode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Malathi231/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Malathi231/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [1668-maximum-repeating-substring](https://github.com/Malathi231/LeetCode/tree/master/1668-maximum-repeating-substring) |
@@ -278,6 +280,7 @@ Feel free to explore the solutions and provide suggestions for improvement.
 | [0268-missing-number](https://github.com/Malathi231/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Malathi231/LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Malathi231/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0567-permutation-in-string](https://github.com/Malathi231/LeetCode/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/Malathi231/LeetCode/tree/master/0645-set-mismatch) |
 | [0904-fruit-into-baskets](https://github.com/Malathi231/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Malathi231/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -353,6 +356,7 @@ Feel free to explore the solutions and provide suggestions for improvement.
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Malathi231/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/Malathi231/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0567-permutation-in-string](https://github.com/Malathi231/LeetCode/tree/master/0567-permutation-in-string) |
 | [0713-subarray-product-less-than-k](https://github.com/Malathi231/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Malathi231/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Malathi231/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
