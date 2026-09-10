@@ -552,4 +552,8 @@ Feel free to explore the solutions and provide suggestions for improvement.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/Malathi231/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0595-big-countries](https://github.com/Malathi231/LeetCode/tree/main/0595-big-countries/) | Easy |
 <!---LeetCode Topics End-->
