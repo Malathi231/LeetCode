@@ -556,4 +556,5 @@ Feel free to explore the solutions and provide suggestions for improvement.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0595-big-countries](https://github.com/Malathi231/LeetCode/tree/main/0595-big-countries/) | Easy |
+| [1148-article-views-i](https://github.com/Malathi231/LeetCode/tree/main/1148-article-views-i/) | Easy |
 <!---LeetCode Topics End-->
