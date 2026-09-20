@@ -556,6 +556,7 @@ Feel free to explore the solutions and provide suggestions for improvement.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0197-rising-temperature](https://github.com/Malathi231/LeetCode/tree/main/0197-rising-temperature/) | Easy |
+| [0577-employee-bonus](https://github.com/Malathi231/LeetCode/tree/main/0577-employee-bonus/) | Easy |
 | [0595-big-countries](https://github.com/Malathi231/LeetCode/tree/main/0595-big-countries/) | Easy |
 | [1068-product-sales-analysis-i](https://github.com/Malathi231/LeetCode/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1148-article-views-i](https://github.com/Malathi231/LeetCode/tree/main/1148-article-views-i/) | Easy |
