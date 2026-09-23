@@ -561,6 +561,7 @@ Feel free to explore the solutions and provide suggestions for improvement.
 | [0595-big-countries](https://github.com/Malathi231/LeetCode/tree/main/0595-big-countries/) | Easy |
 | [1068-product-sales-analysis-i](https://github.com/Malathi231/LeetCode/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1148-article-views-i](https://github.com/Malathi231/LeetCode/tree/main/1148-article-views-i/) | Easy |
+| [1251-average-selling-price](https://github.com/Malathi231/LeetCode/tree/main/1251-average-selling-price/) | Easy |
 | [1280-students-and-examinations](https://github.com/Malathi231/LeetCode/tree/main/1280-students-and-examinations/) | Easy |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Malathi231/LeetCode/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Malathi231/LeetCode/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
