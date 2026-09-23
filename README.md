@@ -560,6 +560,7 @@ Feel free to explore the solutions and provide suggestions for improvement.
 | [0577-employee-bonus](https://github.com/Malathi231/LeetCode/tree/main/0577-employee-bonus/) | Easy |
 | [0595-big-countries](https://github.com/Malathi231/LeetCode/tree/main/0595-big-countries/) | Easy |
 | [1068-product-sales-analysis-i](https://github.com/Malathi231/LeetCode/tree/main/1068-product-sales-analysis-i/) | Easy |
+| [1075-project-employees-i](https://github.com/Malathi231/LeetCode/tree/main/1075-project-employees-i/) | Easy |
 | [1148-article-views-i](https://github.com/Malathi231/LeetCode/tree/main/1148-article-views-i/) | Easy |
 | [1251-average-selling-price](https://github.com/Malathi231/LeetCode/tree/main/1251-average-selling-price/) | Easy |
 | [1280-students-and-examinations](https://github.com/Malathi231/LeetCode/tree/main/1280-students-and-examinations/) | Easy |
