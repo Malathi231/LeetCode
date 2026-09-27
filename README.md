@@ -559,6 +559,7 @@ Feel free to explore the solutions and provide suggestions for improvement.
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Malathi231/LeetCode/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
 | [0577-employee-bonus](https://github.com/Malathi231/LeetCode/tree/main/0577-employee-bonus/) | Easy |
 | [0595-big-countries](https://github.com/Malathi231/LeetCode/tree/main/0595-big-countries/) | Easy |
+| [0596-classes-with-at-least-5-students](https://github.com/Malathi231/LeetCode/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [1068-product-sales-analysis-i](https://github.com/Malathi231/LeetCode/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1075-project-employees-i](https://github.com/Malathi231/LeetCode/tree/main/1075-project-employees-i/) | Easy |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/Malathi231/LeetCode/tree/main/1141-user-activity-for-the-past-30-days-i/) | Easy |
