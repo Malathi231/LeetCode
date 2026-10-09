@@ -556,6 +556,7 @@ Feel free to explore the solutions and provide suggestions for improvement.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0180-consecutive-numbers](https://github.com/Malathi231/LeetCode/tree/main/0180-consecutive-numbers/) | Medium |
+| [0185-department-top-three-salaries](https://github.com/Malathi231/LeetCode/tree/main/0185-department-top-three-salaries/) | Hard |
 | [0197-rising-temperature](https://github.com/Malathi231/LeetCode/tree/main/0197-rising-temperature/) | Easy |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Malathi231/LeetCode/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
 | [0577-employee-bonus](https://github.com/Malathi231/LeetCode/tree/main/0577-employee-bonus/) | Easy |
