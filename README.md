@@ -561,6 +561,7 @@ Feel free to explore the solutions and provide suggestions for improvement.
 | [0577-employee-bonus](https://github.com/Malathi231/LeetCode/tree/main/0577-employee-bonus/) | Easy |
 | [0595-big-countries](https://github.com/Malathi231/LeetCode/tree/main/0595-big-countries/) | Easy |
 | [0596-classes-with-at-least-5-students](https://github.com/Malathi231/LeetCode/tree/main/0596-classes-with-at-least-5-students/) | Easy |
+| [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/Malathi231/LeetCode/tree/main/0602-friend-requests-ii-who-has-the-most-friends/) | Medium |
 | [0626-exchange-seats](https://github.com/Malathi231/LeetCode/tree/main/0626-exchange-seats/) | Medium |
 | [1045-customers-who-bought-all-products](https://github.com/Malathi231/LeetCode/tree/main/1045-customers-who-bought-all-products/) | Medium |
 | [1068-product-sales-analysis-i](https://github.com/Malathi231/LeetCode/tree/main/1068-product-sales-analysis-i/) | Easy |
